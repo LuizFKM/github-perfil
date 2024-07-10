@@ -1,0 +1,9 @@
+.searchInput {
+    padding: 8px;
+    width: 100%;
+    color: #000;
+    background-color: var(--corSecundaria);
+    border: 2px solid var(--corPrincipal);
+    font-weight: bold;
+    border-radius: 5px;
+}
